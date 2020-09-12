@@ -44,6 +44,20 @@ body {
   display: flex;
   justify-content: space-between;
 }
+.final {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightgray;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.final {
+  color: dimgray;
+  padding: 4px;
+  font-weight: bold;
+}
 
 @keyframes fade {
   from {
